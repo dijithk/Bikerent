@@ -1,0 +1,57 @@
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  img {
+    width: 600px;
+    height: 600px;
+  }
+  
+  #a1 {
+    font-family: 'Odor Mean Chey';
+  }
+  
+  #a2 {
+    font-family: "Titan One";
+  }
+  
+  #a3 {
+    font-family: 'Odor Mean Chey';
+  }
+  
+  #a4 {
+    margin-top: 50px;
+  }
+  
+  #a5 {
+    margin-top: 200px;
+  }
+  
+  .want-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 50px;
+  }
+  
+
+  
+  .a1 {
+    transform: translateX(65px);
+  }
+  
+
+  .card {
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
